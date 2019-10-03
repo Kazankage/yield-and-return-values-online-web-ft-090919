@@ -1,4 +1,4 @@
-
+require 
 
 def hello(array)
   i = 0 
