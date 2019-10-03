@@ -9,5 +9,5 @@ def hello(array)
   end
   return collection
 end
-
+binding.pry
 hello(["Tim", "Tom", "Jim"]) { |name|  "Hi, #{name}."}
